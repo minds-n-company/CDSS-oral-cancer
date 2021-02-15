@@ -1,4 +1,4 @@
-# Deep Learning-based Diagnosis of Maxillary Sinusitis using Paranasal Sinus X-ray 
+# Deep Learning-based Diagnosis of Oral Cancer using Endoscopy
 
 ## Introduction
 This project aims to build a deep learning-based diagnostic model of oral cancer. The convolutional neural network (EfficientNet-B3) were trained and evaluated using a total of 12,400 endoscopy of oral cavity (JPG format) acquired from six different medical centers, which will be available with restricted access. This repository includes 10-fold cross-validation, data preprocessing, and evaluation process. This study was supported by grants from the National Information Society Agency (NIA) of Korea.
